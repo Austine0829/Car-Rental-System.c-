@@ -1037,9 +1037,7 @@ void carRental :: renteeInfo(){
     cout << "Age: " << age << '\n';
     cout << "Days Of Rent: " << rentDays << " Day/s" << '\n';
     cout << "Car Name: "<< carBrand << " " << carRented << '\n';
-	cout << "-----------------------------------------" << '\n';
+    cout << "-----------------------------------------" << '\n';
     cout << "Thank You For Renting!" << '\n';
-	cout << "-----------------------------------------" << '\n';
-
-	brandList();
+    cout << "-----------------------------------------" << '\n';
 }
